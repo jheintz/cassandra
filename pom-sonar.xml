@@ -24,7 +24,7 @@
         </plugins>
   </build>
   <properties>
-    <sonar.projectDate>2008-02-23</sonar.projectDate>
+    <sonar.projectDate>2009-06-217</sonar.projectDate>
     <sonar.dynamicAnalysis>false</sonar.dynamicAnalysis>
   </properties>
 </project>
