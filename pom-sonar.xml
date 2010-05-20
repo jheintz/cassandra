@@ -7,7 +7,7 @@
   <name>Cassandra-0.3.0-final</name>
   <version>0.3.0-final</version>
   <build>
-        <sourceDirectory>src</sourceDirectory>
+        <sourceDirectory>src/java</sourceDirectory>
         <outputDirectory>build/classes</outputDirectory>
         <plugins>
            <plugin>
