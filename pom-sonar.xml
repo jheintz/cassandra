@@ -3,8 +3,8 @@
        xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>org.apache.cassandra</groupId>
-  <artifactId>Cassandra</artifactId>
-  <name>Cassandra</name>
+  <artifactId>Cassandra0.4.0-final</artifactId>
+  <name>Cassandra0.4.0-final</name>
   <version>0.4.0-final</version>
   <build>
         <sourceDirectory>src/java</sourceDirectory>
