@@ -1,4 +1,5 @@
 build/
 *~
+interface/avro/
 target/
 src/gen-java/
