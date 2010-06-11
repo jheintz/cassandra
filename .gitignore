@@ -1,4 +1,6 @@
+.DS_Store
 build/
 *~
+interface/avro/
 target/
 src/gen-java/
