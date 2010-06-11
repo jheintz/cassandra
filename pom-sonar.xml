@@ -25,6 +25,7 @@
   </build>
   <properties>
     <sonar.projectDate>2010-01-18</sonar.projectDate>
-    <sonar.dynamicAnalysis>false</sonar.dynamicAnalysis>
-  </properties>
+    <sonar.dynamicAnalysis>reuseReports</sonar.dynamicAnalysis>
+    <sonar.surefire.reportsPath>build/test/output/</sonar.surefire.reportsPath>
+    <sonar.cobertura.reportPath>build/cobertura/report/coverage.xml</sonar.cobertura.reportPath>  </properties>
 </project>
